@@ -1,11 +1,11 @@
 ---
-title: Galician Research Group Visits BCN MedTech and BCNatal in Barcelona
+title: CiTIUS Research Group Visits BCN MedTech and BCNatal in Barcelona
 date: 2025-09-05
 image:
   focal_point: 'top'
 ---
 
-Members of the Galician research group — **Carolina**, **Constanza**, **Marta**, and **César** — recently traveled to **Barcelona** to visit **BCN MedTech (Universitat Pompeu Fabra)** and **BCNatal (Hospital Clínic & Sant Joan de Déu)** as part of their ongoing collaboration in fetal development and AI-based medical imaging research.
+Members of the CiTIUS research group — **Carolina**, **Constanza**, **Marta**, and **César** — recently traveled to **Barcelona** to visit **BCN MedTech (Universitat Pompeu Fabra)** and **BCNatal (Hospital Clínic & Sant Joan de Déu)** as part of their ongoing collaboration in fetal development and AI-based medical imaging research.
 
 <!--more-->
 
