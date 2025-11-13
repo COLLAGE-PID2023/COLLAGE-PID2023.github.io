@@ -73,4 +73,5 @@ user_groups:
   - Principal Investigators
 ---
 
+Gabriel holds an Engineer's Degree in Computer Science and a Bachelor in Mathematics by the Universitat Politècnica de Catalunya, and a Msc in Mathematics by the University of Bonn. He did a PhD in Information and Communication Technologies (Universitat Pompeu Fabra, Barcelona, Spain, 2019), carried out in collaboration with Philips Research (Paris, France) within the Marie Swodlaska Curie European Industrial Doctorate Cardiofunxion. Afterwards, he was a postdoctoral researcher in CREATIS (Lyon, France), where he investigated reinforcement learning strategies for cost-effectively combining different imaging modalities for medical diagnosis. Currently, he is a Ramon y Cajal fellow at the TransCOR group at UPF.
 
