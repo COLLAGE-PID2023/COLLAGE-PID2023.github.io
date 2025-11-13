@@ -1,6 +1,6 @@
 ---
 title: Team Members at CiTIUS Bring Biomedical Engineering Closer to the Public
-date: 2025-09-05
+date: 2025-11-09
 image:
   focal_point: 'top'
 ---
