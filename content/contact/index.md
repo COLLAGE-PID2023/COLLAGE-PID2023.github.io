@@ -10,7 +10,7 @@ sections:
       title: Contact
 
       text: |-
-        Contact us
+        CiTIUS
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       address:
@@ -35,15 +35,15 @@ sections:
       #    icon_pack: fas
       #    name: Discuss on Forum
       #    link: 'https://discourse.gohugo.io'
-      contact_links:
-        - icon: envelope
-          icon_pack: fas
-          name: Email Constanza
-          link: 'mailto:constanza.andion.garcia@usc.es'
-        - icon: envelope
-          icon_pack: fas
-          name: Email Carolina
-          link: 'mailto:carolina.pavez.higueras@usc.es'
+      # contact_links:
+      #   - icon: envelope
+      #     icon_pack: fas
+      #     name: Email Constanza
+      #     link: 'mailto:constanza.andion.garcia@usc.es'
+      #   - icon: envelope
+      #     icon_pack: fas
+      #     name: Email Carolina
+      #     link: 'mailto:carolina.pavez.higueras@usc.es'
     
       # Automatically link email and phone or display as text?
       autolink: true

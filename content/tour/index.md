@@ -30,6 +30,36 @@ sections:
       #     color: '#555'
       - title: 📰 Latest news
         content: |
+          <div class="slide-content">Collaboration between engineers and clinicians in the <span style= "font-weight: bold">COLLAGE project</span></div>
+        align: left
+        background:
+          image:
+            filename: python_courses.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#444'
+        link:
+          text: Read the News
+          url: ../post/
+
+      - title: 📰 Latest news
+        content: |
+          <div class="slide-content">Members of CiTIUS — Carolina, César, Constanza and Marta — participated in  <span style= "font-weight: bold">Ciencia Singular</span>, held on November 8 in Santiago de Compostela. </div>
+        align: left
+        background:
+          image:
+            filename: ciencia_singular.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#444'
+        link:
+          text: Read the News
+          url: ../post/
+
+      - title: 📰 Latest news
+        content: |
           <div class="slide-content"> The <span style= "font-weight: bold">COLLAGE team</span> of Galicia recently visited <span style= "font-weight: bold">BCNatal and BCN MedTech</span> in Barcelona to discuss ongoing research. </div>
           <div class="slide-caption">Francisco Avia (Hospital Clinic Barcelona)</div>
         align: left
