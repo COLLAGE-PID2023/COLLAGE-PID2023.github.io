@@ -11,9 +11,9 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
-          - Researchers
-          - Collaborators
+          - Research team
+          - Research Assistants
+          - PhD Students
       sort_by: Params.last_name
       sort_ascending: true
     design:

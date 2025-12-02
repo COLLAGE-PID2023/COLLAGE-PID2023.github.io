@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Assistants
 ---
 
 Javier González Corbelle is a PhD student in the PhD Program in Information Technology Research at Universidade de Santiago de Compostela and works at CITIUS. His research aims to improve the robustness and reproducibility of the validation of Natural Language Generation (NLG) Systems. He focuses on developing new methodologies to evaluate these systems by combining human and automatic assessments.

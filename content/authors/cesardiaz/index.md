@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
 ---
 
 César Díaz Parga is a PhD student in the PhD Program in in Information Technology Research at the Universidade de Santiago de Compostela and works at CITIUS. His research interests includes deep learning strategies, generative models, and biometrical inference in fetal ultrasound. He specifically addresses biases in image data sources, with particular attention to challenges related to limited input data and the need for data harmonization in ultrasound datasets.

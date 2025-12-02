@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Assistants
 ---
 
 Josa Prats i Valero is a Lead Software Engineer at the BCN-MedTech research unit of Universitat Pompeu Fabra in Barcelona. She works on the design, implementation and deployment of software solutions specially conceived to support medical research. Her goal is to create reliable, efficient tools that enhance the research process.
