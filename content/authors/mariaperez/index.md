@@ -65,11 +65,12 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Work Team
 
 ---
-
+<p style="text-align: justify;">
 I obtained my BSc in Biomedical Engineering from Universidade de Vigo (UVigo) in 2022, followed by an MSc in Sound and Music Computing (2023) and an MSc in Computational Biomedical Engineering (2024), both from Universitat Pompeu Fabra (UPF). I then began my PhD at UPF under the supervision of Bart Bijnens, focusing on the study of congenital heart diseases (CHD) during the fetal and pediatric stages, with the aim of improving early diagnosis and supporting longitudinal risk assessment.
 
 
 In parallel, I have played traditional violin for almost 20 years and, with a keen interest in interdisciplinary research, I maintain a deep interest in the relationship between music and medicine.
+<p>

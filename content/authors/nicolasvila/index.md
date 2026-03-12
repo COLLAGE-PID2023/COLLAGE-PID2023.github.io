@@ -72,8 +72,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research team
+  - Research Team
 
 ---
-
+<p style="text-align: justify;">
 Nicolás Vila Blanco is an assistant professor at the Universidade de Santiago de Compostela and an affiliated researcher at CiTIUS. His research focuses on medical image processing and multimodal learning, specifically developing foundation models to assist in clinical procedures like interactive medical image segmentation.
+<p>

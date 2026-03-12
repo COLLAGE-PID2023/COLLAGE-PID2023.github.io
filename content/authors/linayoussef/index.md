@@ -65,8 +65,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Work Team
 
 ---
-
+<p style="text-align: justify;">
 Dr. Lina Youssef is a specialist in Obstetrics and Gynecology from Syria. She defended her PhD thesis entitled “Omics approach to characterise different phenotypes of preeclampsia and fetal growth restriction” in 2020, under the supervision of Professor Eduard Gratacos, Professor Fatima Crispi and Professor Stefan Hansson. Then, she joined Josep Carreras Research Institute as a post-doctoral researcher to deepen her knowledge on endothelial dysfunction. Recently, she has been awarded the BITRECS fellowship for clinician-scientists to continue her research on "Machine learning-based identification of personalized intervention strategies to prevent preeclampsia and its consequences on cardiometabolic health”. She has been also involved in many randomised trials at BCNatal such as the IMPACT BCN and PE37 trials.
+<p>

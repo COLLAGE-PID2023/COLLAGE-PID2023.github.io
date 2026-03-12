@@ -66,8 +66,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research team
+  - Research Team
 
 ---
-
+<p style="text-align: justify;">
 Tiago Cortinhal holds a PhD in Computer Vision from Halmstad University, where his doctoral work focused on semantics-aware multi-modal domain translation and sensor fusion. He is a postdoctoral researcher at CiTIUS (Centro Singular de Investigación en Tecnoloxías Intelixentes), Universidade de Santiago de Compostela, and in this role applies multi-modal perception to healthcare by combining imaging data and clinical information to build richer, more reliable representations.
+<p>

@@ -37,7 +37,7 @@ interests:
 #     - course: MSc in Machine Learning and Health
 #       institution: Universidad Carlos III de Madrid
 #       year: 2023
-#     - course: BSc in Biomedical Engineering
+#     - course: BSc in Telecommunications Engineering
 #       institution: Universitat Politècnica de València
 #       year: 2021
 
@@ -70,7 +70,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research team
+  - Principal Investigators
 ---
+
+<p style="text-align: justify;">
+Marta holds an Engineer’s Degree in Telecommunication from the Universidade de Vigo and an MSc in Computer Vision and Artificial Intelligence from the Computer Vision Center of Barcelona. She completed her PhD in Medical Image Processing at Universitat Pompeu Fabra, focusing on left atrial parameterization and multi-modal data analysis in the context of atrial fibrillation. Afterwards, she was a postdoctoral researcher at IHU Liryc (L'Institut de Rythmologie et Modélisation Cardiaque, Bordeaux, France) and the Institut National de Recherche en Informatique et en Automatique (INRIA, Bordeaux). She joined CiTIUS in 2023 as a “Maria Zambrano” postdoctoral researcher and currently investigates the use of machine learning techniques and classical image processing approaches applied to multimodal cardiac images as a Ramón y Cajal Research Fellow.
+</p>
 
 
