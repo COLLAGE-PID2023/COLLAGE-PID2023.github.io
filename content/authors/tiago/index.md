@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Tiago Filipe Fernandes
-
+date: 2026-03-12
 # Full name (for SEO)
 first_name: Tiago Filipe
 last_name: Fernandes Cortinhal

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: César Díaz Parga
-
+date: 2026-03-12
 # Full name (for SEO)
 first_name: César
 last_name: Díaz
@@ -24,7 +24,7 @@ organizations:
   #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning strategies, generative models, and biometrical inference in fetal ultrasound.
+#bio: My research interests include deep learning strategies, generative models, and biometrical inference in fetal ultrasound.
 
 interests:
   - Artificial Intelligence

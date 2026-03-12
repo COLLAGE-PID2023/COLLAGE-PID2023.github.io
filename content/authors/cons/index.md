@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Constanza Andión
-
+date: 2026-03-12
 # Full name (for SEO)
 first_name: Constanza
 last_name: Andión
@@ -24,7 +24,7 @@ organizations:
   #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the development of advanced machine learning methodologies.
+#bio: My research interests include the development of advanced machine learning methodologies.
 
 interests:
   - Artificial Intelligence

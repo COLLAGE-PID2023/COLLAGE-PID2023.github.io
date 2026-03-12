@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Carolina Pavez
-
+date: 2026-03-12
 # Full Name (for SEO)
 first_name: Carolina
 last_name: Pavez
@@ -10,6 +10,9 @@ last_name: Pavez
 # superuser: true
 authors:
 - carolina
+
+# Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: PhD student 
@@ -23,7 +26,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include algorithmic fairness, bias mitigation and explainability.
+#bio: My research interests include algorithmic fairness, bias mitigation and explainability.
 
 interests:
   - Artificial Intelligence

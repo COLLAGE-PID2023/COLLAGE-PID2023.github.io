@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Lina Youssef
-
+date: 2026-03-12
 # Full name (for SEO)
 first_name: Lina
 last_name: Youssef

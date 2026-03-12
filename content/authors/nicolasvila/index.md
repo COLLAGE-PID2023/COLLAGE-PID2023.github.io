@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Nicolás Vila Blanco
-
+date: 2026-03-12
 # Full name (for SEO)
 first_name: Nicolás
 last_name: Vila
@@ -24,7 +24,7 @@ organizations:
   #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include medical image processing and multimodal learning.
+#bio: My research interests include medical image processing and multimodal learning.
 
 interests:
   - Artificial Intelligence

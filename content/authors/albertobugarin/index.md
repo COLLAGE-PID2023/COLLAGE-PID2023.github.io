@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Alberto Bugarín Diz
-
+date: 2026-03-12
 # Full name (for SEO)
 first_name: Alberto 
 last_name: Bugarín Diz
@@ -24,7 +24,7 @@ organizations:
   #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natural language generation and knowledge and reasoning representation.
+#bio: My research interests include natural language generation and knowledge and reasoning representation.
 
 interests:
   - Artificial Intelligence

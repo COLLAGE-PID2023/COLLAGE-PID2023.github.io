@@ -1,7 +1,7 @@
 ---
 # Display name
 title: María Pérez
-
+date: 2026-03-12
 # Full name (for SEO)
 first_name: María
 last_name: Pérez
