@@ -78,3 +78,4 @@ user_groups:
 Constanza Andión is a PhD student in the PhD Program in Information Technology Research at the Universidade de Santiago de Compostela (USC) and works at CITIUS. Her research interests include the development of Machine Learning methodologies for health, with special emphasis on medical signals and images. Her research focuses on applying machine learning to improve early detection of Small and Vulnerable Newborns (SVN), integrating longitudinal ultrasound and maternal clinical data.
 <p>
 
+
